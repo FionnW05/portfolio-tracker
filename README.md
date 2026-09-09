@@ -1,6 +1,6 @@
 # Portfolio Tracker & Analyser
 
-A Python tool that pulls historical price data for a basket of stocks and ETFs, then analyses the portfolio's return and risk — including returns, volatility, correlation, and risk-adjusted performance (Sharpe ratio) against a benchmark.
+A Python tool that pulls historical price data for a basket of stocks and ETFs, then analyses the portfolio's return and risk, including returns, volatility, correlation, and risk-adjusted performance (Sharpe ratio) against a benchmark.
 
 Built to apply portfolio-theory fundamentals to real market data rather than toy examples.
 
